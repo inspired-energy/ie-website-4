@@ -23,6 +23,6 @@ That is all for now...
 
 _revision history_
 
-created repo
-created readme file
-added To-Do
+1. created repo.
+2. created readme file.
+3. added To-Do.
